@@ -13,3 +13,4 @@ To run the game, simply run the `npm start` script.
 ## To Do
 
 - Persist the score
+- Move logic into utils
